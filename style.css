@@ -162,7 +162,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(pink.jpg)no-repeat;
+    background: url(pink.png)no-repeat;
     background-position: center;
     background-size: cover;
 }
